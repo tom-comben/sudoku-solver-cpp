@@ -1,0 +1,19 @@
+﻿  Cell.cpp
+  CellGroup.cpp
+E:\Projects\cpp-projects\SudokuSolverCpp\CellGroup.cpp(58,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Puzzle.cpp
+E:\Projects\cpp-projects\SudokuSolverCpp\Puzzle.cpp(24,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\cpp-projects\SudokuSolverCpp\Puzzle.cpp(44,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Solver.cpp
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.cpp(42,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.cpp(69,2): warning C4227: anachronism used: qualifiers on reference are ignored
+  SudokuSolverCpp.cpp
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Projects\cpp-projects\SudokuSolverCpp\Solver.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  utils.cpp
+E:\Projects\cpp-projects\SudokuSolverCpp\utils.cpp(31,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\Projects\cpp-projects\SudokuSolverCpp\utils.cpp(35,24): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SudokuSolverCpp.vcxproj -> E:\Projects\cpp-projects\SudokuSolverCpp\x64\Debug\SudokuSolverCpp.exe
